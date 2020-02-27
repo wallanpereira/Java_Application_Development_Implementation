@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8739e171-d108-4083-ae26-6d3dbf6140b5" name="Default Changelist" comment="" />
+    <list default="true" id="a2582a79-f6b8-467a-bde4-36d75343e179" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Application_Development_Implementation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/atividade_cap_03/CapturandoErroCompleto.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/atividade_cap_03/CapturandoErroCompleto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/atividade_cap_03/SelecaoSexoComJOptionPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/atividade_cap_03/SelecaoSexoComJOptionPane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/atividade_cap_03/ValorProdutoComDesconto.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/atividade_cap_03/ValorProdutoComDesconto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/atividade_cap_03/calculoResistenciaSerir.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/atividade_cap_03/calculoResistenciaSerir.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/atividade_cap_04/BuscaLetraNaFrase.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/atividade_cap_04/BuscaLetraNaFrase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/atividade_cap_04/SimulacaoDadoSeisLados.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/atividade_cap_04/SimulacaoDadoSeisLados.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tempos/Agendamentos$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tempos/Agendamentos$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/testes/diversos/UsandoSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/testes/diversos/UsandoSwitch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/atividade_cap_04/AjustePercentualAcrescimo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/atividade_cap_04/AjustePercentualAcrescimo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/atividade_cap_04/BuscaLetraNaFrase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/atividade_cap_04/BuscaLetraNaFrase.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1W5uHJzr1jatJpd1cv2vVaxw6nn" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YNDa3Sntc6vzGrqVoPKtfq0ml8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,17 +35,63 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
-    <configuration name="UsandoSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testes.diversos.UsandoSwitch" />
-      <module name="livro_java8_ens_did_desenv" />
+  <component name="RunManager" selected="Application.AjustePercentualAcrescimo">
+    <configuration name="AjustePercentualAcrescimo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atividade_cap_04.AjustePercentualAcrescimo" />
+      <module name="Java_Application_Development_Implementation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testes.diversos.*" />
+          <option name="PATTERN" value="atividade_cap_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuscaLetraNaFrase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atividade_cap_04.BuscaLetraNaFrase" />
+      <module name="Java_Application_Development_Implementation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="atividade_cap_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelecaoSexoComJOptionPane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atividade_cap_03.SelecaoSexoComJOptionPane" />
+      <module name="Java_Application_Development_Implementation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="atividade_cap_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulacaoDadoSeisLados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atividade_cap_04.SimulacaoDadoSeisLados" />
+      <module name="Java_Application_Development_Implementation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="atividade_cap_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -35,34 +101,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UsandoSwitch" />
+        <item itemvalue="Application.AjustePercentualAcrescimo" />
+        <item itemvalue="Application.SimulacaoDadoSeisLados" />
+        <item itemvalue="Application.SelecaoSexoComJOptionPane" />
+        <item itemvalue="Application.BuscaLetraNaFrase" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8739e171-d108-4083-ae26-6d3dbf6140b5" name="Default Changelist" comment="" />
-      <created>1578451688409</created>
+      <changelist id="a2582a79-f6b8-467a-bde4-36d75343e179" name="Default Changelist" comment="" />
+      <created>1582774219490</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1578451688409</updated>
-      <workItem from="1578451692371" duration="165000" />
-      <workItem from="1579227378222" duration="43000" />
+      <updated>1582774219490</updated>
+      <workItem from="1582774223715" duration="413000" />
+      <workItem from="1582774689496" duration="2959000" />
     </task>
     <servers />
   </component>
@@ -70,25 +127,37 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1578451863988">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="552" y="178" key="#Inspections" timestamp="1582774586498">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578451863988" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1578451863988">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1582774586498" />
+    <state width="1867" height="269" key="GridCell.Tab.0.bottom" timestamp="1582777915601">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578451863988" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1578451863988">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1867" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582777915601" />
+    <state width="1867" height="269" key="GridCell.Tab.0.center" timestamp="1582777915601">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578451863988" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1578451863988">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1867" height="269" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582777915601" />
+    <state width="1867" height="269" key="GridCell.Tab.0.left" timestamp="1582777915601">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578451863988" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1579227389349">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1867" height="269" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582777915601" />
+    <state width="1867" height="269" key="GridCell.Tab.0.right" timestamp="1582777915601">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579227389349" />
+    <state width="1867" height="269" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582777915601" />
+    <state x="461" y="154" key="SettingsEditor" timestamp="1582776832278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="154" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582776832278" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1582774242492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582774242492" />
+    <state x="594" y="14" width="731" height="1011" key="find.popup" timestamp="1582776423232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="594" y="14" width="731" height="1011" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582776423232" />
   </component>
 </project>
