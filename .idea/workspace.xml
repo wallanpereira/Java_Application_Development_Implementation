@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2582a79-f6b8-467a-bde4-36d75343e179" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/atividade_cap_04/numeroSorteadoSenha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atividade_cap_04/FraseAoContrario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/atividade_cap_04/numeroSorteadoSenha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/atividade_cap_04/numeroSorteadoSenha.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +42,9 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.numeroSorteadoSenha">
+  <component name="RunManager" selected="Application.FraseAoContrario">
     <configuration name="AjustePercentualAcrescimo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="atividade_cap_04.AjustePercentualAcrescimo" />
       <module name="Java_Application_Development_Implementation" />
@@ -57,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuscaLetraNaFrase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="atividade_cap_04.BuscaLetraNaFrase" />
+    <configuration name="FraseAoContrario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atividade_cap_04.FraseAoContrario" />
       <module name="Java_Application_Development_Implementation" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FraseAoContrario" />
         <item itemvalue="Application.numeroSorteadoSenha" />
         <item itemvalue="Application.AjustePercentualAcrescimo" />
         <item itemvalue="Application.SimulacaoDadoSeisLados" />
         <item itemvalue="Application.SelecaoSexoComJOptionPane" />
-        <item itemvalue="Application.BuscaLetraNaFrase" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +131,12 @@
       <option name="presentableId" value="Default" />
       <updated>1582774219490</updated>
       <workItem from="1582774223715" duration="413000" />
-      <workItem from="1582774689496" duration="4853000" />
+      <workItem from="1582774689496" duration="4922000" />
+      <workItem from="1583015652677" duration="1778000" />
+      <workItem from="1583022044815" duration="1168000" />
+      <workItem from="1583034982999" duration="1127000" />
+      <workItem from="1583062726055" duration="602000" />
+      <workItem from="1583102863403" duration="978000" />
     </task>
     <servers />
   </component>
@@ -142,26 +148,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1582774586498" />
-    <state width="1867" height="269" key="GridCell.Tab.0.bottom" timestamp="1582779803739">
+    <state width="1865" height="133" key="GridCell.Tab.0.bottom" timestamp="1583103871988">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582779803739" />
-    <state width="1867" height="269" key="GridCell.Tab.0.center" timestamp="1582779803739">
+    <state width="1865" height="133" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583103871988" />
+    <state width="1865" height="133" key="GridCell.Tab.0.center" timestamp="1583103871988">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="269" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582779803739" />
-    <state width="1867" height="269" key="GridCell.Tab.0.left" timestamp="1582779803739">
+    <state width="1865" height="133" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583103871988" />
+    <state width="1865" height="133" key="GridCell.Tab.0.left" timestamp="1583103871988">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="269" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582779803739" />
-    <state width="1867" height="269" key="GridCell.Tab.0.right" timestamp="1582779803739">
+    <state width="1865" height="133" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583103871988" />
+    <state width="1865" height="133" key="GridCell.Tab.0.right" timestamp="1583103871988">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="269" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582779803739" />
-    <state x="461" y="154" key="SettingsEditor" timestamp="1582776832278">
+    <state width="1865" height="133" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583103871988" />
+    <state x="461" y="154" key="SettingsEditor" timestamp="1583016840479">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="154" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582776832278" />
+    <state x="461" y="154" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583016840479" />
     <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1582774242492">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
