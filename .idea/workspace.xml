@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2582a79-f6b8-467a-bde4-36d75343e179" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/atividade_cap_04/FraseImpropria.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,7 +135,10 @@
       <workItem from="1583022044815" duration="1168000" />
       <workItem from="1583034982999" duration="1127000" />
       <workItem from="1583062726055" duration="602000" />
-      <workItem from="1583102863403" duration="9527000" />
+      <workItem from="1583102863403" duration="10268000" />
+      <workItem from="1583200057095" duration="1787000" />
+      <workItem from="1583460177734" duration="1196000" />
+      <workItem from="1583670040521" duration="1197000" />
     </task>
     <task id="LOCAL-00001" summary="Exercicio 4 do cap 4">
       <created>1583103952518</created>
@@ -159,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583115232750</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercício 5 do cap 4 - Filtrando palavras">
+      <created>1583120431724</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583120431724</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,57 +177,58 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercicio 4 do cap 4" />
     <MESSAGE value="Exercicio 4 do cap 4 - Construa uma classe que receba uma frase qualquer e mostre essa frase de trás para frente e sem espaços em branco" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 4 do cap 4 - Construa uma classe que receba uma frase qualquer e mostre essa frase de trás para frente e sem espaços em branco" />
+    <MESSAGE value="Exercício 5 do cap 4 - Filtrando palavras" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício 5 do cap 4 - Filtrando palavras" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Inspections" timestamp="1582774586498">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1582774586498" />
-    <state x="303" y="46" key="CommitChangelistDialog2" timestamp="1583115229634">
+    <state x="303" y="46" key="CommitChangelistDialog2" timestamp="1583120428802">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="303" y="46" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583115229634" />
-    <state width="1865" height="230" key="GridCell.Tab.0.bottom" timestamp="1583120317834">
+    <state x="303" y="46" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583120428802" />
+    <state width="1865" height="332" key="GridCell.Tab.0.bottom" timestamp="1583121211550">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="230" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583120317834" />
-    <state width="1865" height="230" key="GridCell.Tab.0.center" timestamp="1583120317834">
+    <state width="1865" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583121211550" />
+    <state width="1865" height="332" key="GridCell.Tab.0.center" timestamp="1583121211550">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="230" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583120317834" />
-    <state width="1865" height="230" key="GridCell.Tab.0.left" timestamp="1583120317834">
+    <state width="1865" height="332" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583121211549" />
+    <state width="1865" height="332" key="GridCell.Tab.0.left" timestamp="1583121211549">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="230" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583120317834" />
-    <state width="1865" height="230" key="GridCell.Tab.0.right" timestamp="1583120317834">
+    <state width="1865" height="332" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583121211549" />
+    <state width="1865" height="332" key="GridCell.Tab.0.right" timestamp="1583121211550">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="230" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583120317834" />
-    <state width="1865" height="332" key="GridCell.Tab.1.bottom" timestamp="1583114251825">
+    <state width="1865" height="332" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583121211550" />
+    <state width="1865" height="332" key="GridCell.Tab.1.bottom" timestamp="1583121211551">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583114251825" />
-    <state width="1865" height="332" key="GridCell.Tab.1.center" timestamp="1583114251825">
+    <state width="1865" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583121211551" />
+    <state width="1865" height="332" key="GridCell.Tab.1.center" timestamp="1583121211550">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="332" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583114251825" />
-    <state width="1865" height="332" key="GridCell.Tab.1.left" timestamp="1583114251824">
+    <state width="1865" height="332" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583121211550" />
+    <state width="1865" height="332" key="GridCell.Tab.1.left" timestamp="1583121211550">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="332" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583114251824" />
-    <state width="1865" height="332" key="GridCell.Tab.1.right" timestamp="1583114251825">
+    <state width="1865" height="332" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583121211550" />
+    <state width="1865" height="332" key="GridCell.Tab.1.right" timestamp="1583121211550">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="332" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583114251825" />
+    <state width="1865" height="332" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583121211550" />
     <state x="461" y="154" key="SettingsEditor" timestamp="1583016840479">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="154" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583016840479" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1583115243435">
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1583120437391">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583115243435" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583120437391" />
     <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1582774242492">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
